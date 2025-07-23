@@ -4,6 +4,9 @@
 
 This project implements a sentiment-aware chatbot using the Langchain framework, designed as the "Easy Level" task for an internship selection process. The chatbot can maintain conversational context using Langchain's memory modules and adapt its responses based on the user's detected sentiment. The interface is built with Streamlit for an interactive web experience.
 
+## Demo
+[Sentiment-Aware Chatbot](https://sentiment-aware-chatbot-ai.streamlit.app/)
+
 ## Features
 
 * **Conversation Memory**: Utilizes Langchain's `ConversationBufferMemory` (or `ConversationSummaryMemory`) to remember previous interactions, providing contextual responses.
